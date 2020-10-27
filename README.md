@@ -15,3 +15,4 @@ However, to avoid trouble, please follow the conditions before create the fan-ba
 
 1. Content that includes inflammatory material towards Mystic Moonlight or other copyright owners are prohibited.
 2. If possible, please leave a credit and/or contact information. (Optional, but recommended)
+3. Before using the fan-based project for business purposes(For example making animation related to our project from company), please contact me for permission before doing that!
