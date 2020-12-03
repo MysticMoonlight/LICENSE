@@ -7,7 +7,8 @@ The source code for our project is licensed with [MIT License](https://opensourc
 # Project Terms of use
 You may freely create fan-based works such as games, book, music and any other stuffs even for commercial use.
 
-However, you may not use our official assets(e.g. CGs, Artworks, Music, etc.) for commercial use. 
+However, you may not use our official assets(e.g. CGs, Artworks, Music, etc.) for commercial use.
+> Note: You can still use our official assets on youtube, but assets must not be used for commercial use.
 
 Using assets such as music, CGs on YouTube is allowed, but monetizing our asset on youtube is strictly prohibited and will not be allowed.
 
